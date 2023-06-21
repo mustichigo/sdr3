@@ -1,0 +1,3 @@
+while wait do -- thanks for taking my script I hope you enjoy!
+game.Players.LocalPlayer.Character.KillScript:Destroy() 
+end
